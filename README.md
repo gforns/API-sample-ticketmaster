@@ -1,4 +1,4 @@
-# script_ticketmaster
+# script_ticketmaster.py
 
 
 script_ticketmaste.py mainly gets information from Ticketmaster API:
